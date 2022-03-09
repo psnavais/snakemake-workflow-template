@@ -4,12 +4,13 @@ analysis/*
 !analysis/README.md
 !config
 !config/*
-!resources
-!resources/*
+resources
+resources/*
 !workflow
 !workflow/**
-!results
-!results/**
+!workflow/*
+results
+results/**
 .gitignore
 !.gitattributes
 !.editorconfig
