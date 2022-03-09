@@ -1,4 +1,4 @@
-# Snakemake workflow: {{cookiecutter.project_name}}
+# Snakemake workflow: {{project_name}}
 
 [![Snakemake](https://img.shields.io/badge/snakemake-≥{{cookiecutter.min_snakemake_version}}-brightgreen.svg)](https://snakemake.bitbucket.io)
 [![Build Status](https://travis-ci.org/snakemake-workflows/{{cookiecutter.repo_name}}.svg?branch=master)](https://travis-ci.org/snakemake-workflows/{{cookiecutter.repo_name}})
@@ -8,7 +8,7 @@ Insert your code into the respective folders, i.e. `scripts`, `rules`, and `envs
 
 ## Authors
 
-* {{cookiecutter.full_name}} (@{{cookiecutter.username}})
+* {{full_name}} (@{{username}})
 
 ## Usage
 
